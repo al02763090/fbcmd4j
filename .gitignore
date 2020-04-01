@@ -1,2 +1,6 @@
-.classpath	
+.classpath
 .project
+.class
+.swp
+.settings
+bin
